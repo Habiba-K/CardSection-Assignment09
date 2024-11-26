@@ -9,7 +9,7 @@ const data = [
     },
     {
         id: 1,
-        img: "/image/15c57871-d733-4fdc-8883-4a2040cd3d95.jfif",
+        img: "/image/Confidence.jpg",
     },
     {
         id: 2,
